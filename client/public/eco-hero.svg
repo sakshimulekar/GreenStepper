@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="400" cy="300" r="250" fill="#E8F5E9" />
+  
+  <!-- Earth -->
+  <circle cx="400" cy="300" r="120" fill="#4CAF50" />
+  <path d="M400 180C400 180 450 250 400 300C350 350 400 420 400 420" stroke="#81C784" stroke-width="20" stroke-linecap="round" />
+  <path d="M280 300C280 300 350 250 400 300C450 350 520 300 520 300" stroke="#81C784" stroke-width="20" stroke-linecap="round" />
+  
+  <!-- Leaves -->
+  <path d="M500 200C500 200 550 150 600 200" stroke="#2E7D32" stroke-width="8" stroke-linecap="round" />
+  <path d="M550 150C550 150 600 100 650 150" stroke="#2E7D32" stroke-width="8" stroke-linecap="round" />
+  <path d="M300 200C300 200 250 150 200 200" stroke="#2E7D32" stroke-width="8" stroke-linecap="round" />
+  <path d="M250 150C250 150 200 100 150 150" stroke="#2E7D32" stroke-width="8" stroke-linecap="round" />
+  
+  <!-- Steps -->
+  <rect x="300" y="400" width="200" height="20" rx="10" fill="#81C784" />
+  <rect x="280" y="440" width="240" height="20" rx="10" fill="#81C784" />
+  <rect x="260" y="480" width="280" height="20" rx="10" fill="#81C784" />
+  
+  <!-- Person -->
+  <circle cx="400" cy="350" r="20" fill="#FFB74D" />
+  <path d="M400 370L400 420" stroke="#FFB74D" stroke-width="8" stroke-linecap="round" />
+  <path d="M400 390L450 420" stroke="#FFB74D" stroke-width="8" stroke-linecap="round" />
+  <path d="M400 390L350 420" stroke="#FFB74D" stroke-width="8" stroke-linecap="round" />
+  <path d="M400 420L450 480" stroke="#FFB74D" stroke-width="8" stroke-linecap="round" />
+  <path d="M400 420L350 480" stroke="#FFB74D" stroke-width="8" stroke-linecap="round" />
+</svg> 
