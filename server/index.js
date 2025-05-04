@@ -8,11 +8,6 @@ const path = require('path');
 // Load environment variables
 dotenv.config({ path: path.resolve(__dirname, '.env') });
 
-// Debug logging
-console.log('Environment variables:');
-console.log('MONGODB_URI:', process.env.MONGODB_URI);
-console.log('PORT:', process.env.PORT);
-
 // Create Express app
 const app = express();
 
